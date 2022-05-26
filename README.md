@@ -1,6 +1,6 @@
 # Accelerated-Primal-dual-Algorithm
 
-This is a numerical example to showcase the performance of the Accelerated Primal-Dual algorithm with Backtracking (APDB) proposed in https://arxiv.org/pdf/1803.01401.pdf. In this example, APDB algorithm is implemented for solving a Quadratic Constrained Quadratic Programming (QCQP). See section 5.1. of the corresponding paper for more details. 
+This is a numerical example to showcase the performance of the Accelerated Primal-Dual algorithm with Backtracking (APDB) proposed in https://arxiv.org/pdf/1803.01401.pdf. In this example, APDB algorithm is implemented for solving a Quadratic Constrained Quadratic Programming (QCQP). See section 5.2. of the corresponding paper for more details. 
 
 APDB is proposed to solve general non-bilinear convex-concave saddle point problems. The proposed method achieves an optimal convergence rate of O(1/k) and O(1/k^2) in convex-concave and strongly convex-concave settings, respectively.
 
